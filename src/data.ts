@@ -3,7 +3,7 @@
 // ============================================================
 
 export const NAME = "Paglu";
-export const FROM = "Your Bestie"; // <- put your name here 💌
+export const FROM = "Suorr "; // <- put your name here 💌
 
 // Drop your three photos into  public/photos/  with these exact names.
 // (Relative paths so it works on GitHub Pages project sites.)
@@ -31,7 +31,7 @@ export const STORIES: StorySlide[] = [
     pos: "50% 30%",
     label: "Tiny Princess",
     title: "Princess in the making",
-    caption: "Even back then, the crown was already yours 👑",
+    caption: "Notorious Shaitaan Paglu  👑",
     time: "a long long time ago",
     stickers: ["✨", "🎀", "💖"],
   },
@@ -69,7 +69,7 @@ export const STORIES: StorySlide[] = [
 export const CHAT: string[] = [
   "Heyyy Paglu 👀",
   "Guess what day it is?? 🎂",
-  "Happy Birthday to the princess of my chat list 👑💖",
+  "Happy Birthday to the pagluuuuuuuu  👑💖",
   "Thank you for every random snap, every blurry selfie and every midnight rant 😭💗",
   "Just like Sophia, you've got your own magic ✨ stay kind, stay brave, stay YOU.",
   "May this year bring royal adventures, endless snaps and zero bad filters 😌",
